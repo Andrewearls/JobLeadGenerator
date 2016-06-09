@@ -63,7 +63,7 @@ And add this to the command prompt as:
 
 For JobLeadGenerator:
 
-    Download .zip,
-    Unpack .zip,
-    Open from Python3.4 (GUI),
-    press F5 to run
+Download .zip,
+Unpack .zip,
+Open from Python3.4 (GUI),
+press F5 to run
