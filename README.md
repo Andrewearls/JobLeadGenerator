@@ -44,18 +44,18 @@ For WxPython Phoenix:
         wxpython.org -f http://wxpython.org/Phoenix/snapshot-builds/ \
         wxPython_Phoenix==3.0.3.dev2054+14a1ddd-cp27-cp27m-win_amd64 (or equivilant build)
             
-    to find what bould best fist your platform go to http://wxpython.org/Phoenix/snapshot-builds/
-    find your build and replace the example build with your prefered build.
-    Example:
-        My build was:
-            wxPython_Phoenix-3.0.3.dev2054+14a1ddd-cp27-cp27m-win_amd64.whl
-        Change this to:
-            wxPython_Phoenix==3.0.3.dev2054+14a1ddd-cp27-cp27m-win_amd64
-        And add this to the command prompt as:
+to find what bould best fist your platform go to http://wxpython.org/Phoenix/snapshot-builds/
+find your build and replace the example build with your prefered build.
+Example:
+    My build was:
+        wxPython_Phoenix-3.0.3.dev2054+14a1ddd-cp27-cp27m-win_amd64.whl
+    Change this to:
+        wxPython_Phoenix==3.0.3.dev2054+14a1ddd-cp27-cp27m-win_amd64
+    And add this to the command prompt as:
         
-            pip install -U --pre --trusted-hoast \
-            wxpython.org -f http://wxpython.org/Phoenix/snapshot-builds/ \
-            wxPython_Phoenix==3.0.3.dev2054+14a1ddd-cp27-cp27m-win_amd64
+        pip install -U --pre --trusted-hoast \
+        wxpython.org -f http://wxpython.org/Phoenix/snapshot-builds/ \
+        wxPython_Phoenix==3.0.3.dev2054+14a1ddd-cp27-cp27m-win_amd64
 
 For JobLeadGenerator:
     Download .zip
