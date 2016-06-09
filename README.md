@@ -30,6 +30,7 @@ For Python3.4:
 For Beautifulsoup4:
     Make sure pip is up to date,
     use command prompt:
+    
         cd C:\Python34\Scripts (or equiviland path)
         pip install --upgrade pip
         pip install beautifulsoup4
