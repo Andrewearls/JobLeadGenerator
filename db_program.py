@@ -24,8 +24,8 @@ def CreateTable():
                     Date text,\
                     Company text,\
                     Website text,\
-                    Position text,
-                    PostID INTEGER
+                    Position text,\
+                    PostID INTEGER\
                     )''')
     
     conn.commit()
